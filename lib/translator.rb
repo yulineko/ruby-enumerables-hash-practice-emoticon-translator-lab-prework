@@ -11,7 +11,8 @@ def load_library(path)
   }
   
   emoticon_hash.each do |english_name, set|
-    emoticon_hash[:get_meaning][set.last] = 
+    emoticon_hash[:get_meaning][set.last] = english_name
+    
   end
   
   emoticon_hash
