@@ -27,6 +27,7 @@ def get_japanese_emoticon(file_path, emoticon)
   if emoticon_hash["get_emoticon"][emoticon].nil
     return "Sorry"
   end
+  
 end
 
 def get_english_meaning
