@@ -33,5 +33,5 @@ end
 def get_english_meaning
   # code goes here
   library = load_library(file_path)
-  english_meaning = library 
+  english_meaning = library ["get_meaning"][]
 end
