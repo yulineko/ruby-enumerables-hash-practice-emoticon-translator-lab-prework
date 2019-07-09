@@ -13,7 +13,7 @@ def load_library(file_path)
     emoticon_hash[:get_emoticon][set.first] = set.last
   end
   
-  emoticon_hash
+  emoticon_hash = {"get_meaning" = 
   
   emoticon_hash
 end
