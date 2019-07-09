@@ -9,7 +9,7 @@ def load_library(path)
     :get_emoticon => []
   }
   
-  emoticon_hash
+  
   
   emoticon_hash
 end
