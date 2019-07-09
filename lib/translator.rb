@@ -30,7 +30,7 @@ def get_japanese_emoticon(file_path, emoticon)
   if japanese_emoticon.nil? 
     return "Sorry, that emoticon was not found"
   end
-  
+  library
 end
 
 def get_english_meaning(file_path, emoticon)
