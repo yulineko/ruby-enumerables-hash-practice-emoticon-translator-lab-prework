@@ -9,7 +9,9 @@ def load_library(file_path)
     :get_emoticon => {}
   }
   
-  emoticons.each do |,|
+  emoticons.each do |english, set|
+    
+  end
   
   emoticon_hash
 end
