@@ -15,7 +15,7 @@ def load_library(file_path)
   
   emoticon_hash = {
     "get_meaning" => get_meaning,
-    "get_emoticon" =>
+    "get_emoticon" => get_emoticon
   
   emoticon_hash
 end
