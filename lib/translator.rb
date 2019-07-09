@@ -10,7 +10,8 @@ def load_library(file_path)
   }
   
   emoticons.each do |english, set|
-    emoticon_hash[:get_meaning][set.]
+    emoticon_hash[:get_meaning][set.last] = english
+    emoticon_hash[:get_emoticon][set.first] = set
   end
   
   emoticon_hash
